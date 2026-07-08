@@ -1,0 +1,3 @@
+0 Papel o Carton
+1 Vidrios
+2 Plástico
